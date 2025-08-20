@@ -1,5 +1,3 @@
-# Firebase Studio
+# Data Visualizer
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+This is a Next JS app which can used to visualize data present in an uploaded CSV.
